@@ -14,9 +14,7 @@ Summary: Better living through Python with decorators.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/decorator-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/decorator-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/decorator-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/decorator-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/decorator-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/decorator-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/decorator-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/decorator-feedstock)
 
 Current release info
 ====================
