@@ -5,14 +5,13 @@ package:
   version: {{ version }}
 
 source:
-  fn: decorator-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/d/decorator/decorator-{{ version }}.tar.gz
   sha256: 33cd704aea07b4c28b3eb2c97d288a06918275dac0ecebdaf1bc8a48d98adb9e
 
 build:
   noarch: python
   number: 0
-  script: python -m pip install --no-deps .
+  script: "{{ PYTHON }} -m pip install . --no-deps -vv"
 
 requirements:
   build:
