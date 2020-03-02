@@ -21,12 +21,16 @@ requirements:
     - python
 
 test:
+  requires:
+    - pip
+  commands:
+    - pip check
   imports:
     - decorator
 
 about:
   home: https://github.com/micheles/decorator
-  license: BSD 3-Clause
+  license: BSD-3-Clause
   license_file: LICENSE.txt
   summary: Better living through Python with decorators.
 
