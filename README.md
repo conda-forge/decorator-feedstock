@@ -3,11 +3,11 @@ About decorator
 
 Home: https://github.com/micheles/decorator
 
-Package license: BSD-3-Clause
+Package license: BSD-2-Clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/decorator-feedstock/blob/master/LICENSE.txt)
 
-Summary: Better living through Python with decorators.
+Summary: Decorators for Humans
 
 Current build status
 ====================
