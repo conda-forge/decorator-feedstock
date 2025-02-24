@@ -1,4 +1,4 @@
-{% set version = "5.2.0" %}
+{% set version = "5.2.1" %}
 
 package:
   name: decorator
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/decorator/decorator-{{ version }}.tar.gz
-  sha256: 1cf2ab68f8c1c7eae3895d82ab0daab41294cfbe6fbdebf50b44307299980762
+  sha256: 65f266143752f734b0a7cc83c46f4618af75b8c5911b00ccb61d0ac9b6da0360
 
 build:
   number: 0
